@@ -1,0 +1,9 @@
+---
+base: ubuntu:16.04
+install:
+ - composer
+ - php
+ - php-dom
+ - php-mbstring
+ - php-zip
+---
